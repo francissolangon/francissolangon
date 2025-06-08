@@ -6,9 +6,6 @@ I'm a Computer Science student and freelance graphic designer with a passion for
 
 My work blends creativity with logic.
 
-👩🏻‍💻 I’m currently working on ...
-🌱 I’m currently learning ...
-
 ## Tech Stack
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
