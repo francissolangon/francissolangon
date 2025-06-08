@@ -22,7 +22,13 @@ My work blends creativity with logic.
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a></p>
 
 ## Github Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francissolangon&" alt="francissolangon" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=francissolangon&theme=dark&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FF6B6B&sideLabels=FF6B6B&dates=CCCCCC&background=2D2D3D)](https://git.io/streak-stats)
+
+
+
+
+
 
 
 <!--
