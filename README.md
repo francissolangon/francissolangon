@@ -2,7 +2,10 @@
 
 ## Hello World!, I'm Francis👋
 
-I'm a Computer Science student and freelance graphic designer who loves bringing ideas to life—whether through code or design. I enjoy solving problems, creating clean visuals, and constantly learning new things. My goal is to make work that’s both smart and visually striking.
+I'm a Computer Science student and freelance graphic designer with a passion for both tech and creativity. I enjoy solving problems, creating clean visuals, and constantly learning new things. Whether I’m coding or designing, I strive to produce work that's both functional and visually striking
+
+My work blends creativity with logic
+
 
 - 👩🏻‍💻 I’m currently working on ...
 - 🌱 I’m currently learning ...
