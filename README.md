@@ -25,9 +25,11 @@ My work blends creativity with logic.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=francissolangon&theme=dark&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FF6B6B&sideLabels=FF6B6B&dates=CCCCCC&background=2D2D3D)](https://git.io/streak-stats)
 
+<div align="center">
+  
+![snake gif](https://github.com/francissolangon/francissolangon/blob/output/github-snake-dark.svg)
 
-
-
+</div>
 
 
 
