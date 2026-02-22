@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="Github banner" width="100%" />
+<img src="personal logo.png" alt="Github banner" width="100%" />
 
 ## Hello World!, I'm Francis 
 
