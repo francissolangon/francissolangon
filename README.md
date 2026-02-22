@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="Github banner" width="100%" />
 
-## Hello World!, I'm Francis👋
+## Hello World!, I'm Francis 
 
 I'm a Computer Science student and freelance graphic designer with a passion for both tech and creativity. I enjoy solving problems, creating clean visuals, and constantly learning new things. Whether I’m coding or designing, I strive to produce work that's both functional and visually striking.
 
